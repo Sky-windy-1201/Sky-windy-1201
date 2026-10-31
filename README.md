@@ -34,19 +34,19 @@ I'm interested in turning data into practical tools that help people explore inf
 
 ## Selected Projects
 
-### 🏃 Human Activity & Postural Transition Recognition
+### Human Activity & Postural Transition Recognition
 
 Worked on a group project to classify **12 human activities and postural transitions** using smartphone accelerometer and gyroscope features. Developed and evaluated a **PyTorch multilayer perceptron (MLP)**, exploring temporal context, class weighting, and **PCA**. Used **participant-grouped validation** to evaluate performance on unseen participants, with particular attention to rare postural transitions.
 
-### 💬 Local Text-to-SQL Agent
+### Local Text-to-SQL Agent
 
 Built a natural-language analytics assistant using **Qwen 3 8B, Ollama, FastAPI, and SQLite**. It uses schema-aware prompts, relevant-table selection, and verified SQL examples to generate queries, with read-only access and SQL validation to protect the database.
 
-### 🚨 Disaster Tweet Classification
+### Disaster Tweet Classification
 
 Built an NLP classifier on **7,613 tweets** using **TF-IDF** features and **Logistic Regression**. Achieved **81.8% accuracy**, **83.7% precision**, and a **0.77 F1-score** on validation data.
 
-### 📊 POLLUX — Data Visualisation Web Application
+### POLLUX — Data Visualisation Web Application
 
 Built a **Streamlit** application for CSV preprocessing, machine learning, prediction, and visualisation. Developed **scikit-learn pipelines** for imputation, scaling, and encoding, with model comparison and ensemble predictions.
 
@@ -57,5 +57,5 @@ Built a **Streamlit** application for CSV preprocessing, machine learning, predi
 
 ## Connect With Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/huangtianfeng/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/huang-tian-feng)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tianfenghuang3@gmail.com)
