@@ -1,4 +1,4 @@
-# 👋 Hello, I am Tianfeng Huang
+# Hello, I am Tianfeng Huang
 
 ## About Me
 
